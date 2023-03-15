@@ -7,3 +7,9 @@
   color: red;
   background-color: yellowgreen;
 }
+#one {
+  font-size: 60px;
+}
+.uppercase {
+  text-transform: uppercase;
+}
