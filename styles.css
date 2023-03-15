@@ -1,4 +1,4 @@
-/* class selectors */
+/* div & span */
 
 .green {
   color: green;
@@ -6,10 +6,4 @@
 .red {
   color: red;
   background-color: yellowgreen;
-}
-#one {
-  font-size: 60px;
-}
-.uppercase {
-  text-transform: uppercase;
 }
