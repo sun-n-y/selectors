@@ -1,1 +1,11 @@
 /* inheritance */
+
+body {
+  color: red;
+}
+.special {
+  color: green;
+}
+div {
+  color: brown;
+}
