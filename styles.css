@@ -1,0 +1,9 @@
+/* ID selectors */
+#title {
+  color: aqua;
+  background-color: black;
+}
+#footer {
+  color: green;
+  background-color: yellow;
+}
