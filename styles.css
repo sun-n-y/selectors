@@ -1,9 +1,9 @@
-/* ID selectors */
-#title {
-  color: aqua;
-  background-color: black;
-}
-#footer {
+/* class selectors */
+
+.green {
   color: green;
-  background-color: yellow;
+}
+.red {
+  color: red;
+  background-color: yellowgreen;
 }
