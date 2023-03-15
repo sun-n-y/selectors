@@ -1,1 +1,21 @@
 /* last rule and specificity and universal selector */
+
+#heading {
+  color: blueviolet;
+}
+/* specificity */
+.special {
+  color: green;
+}
+
+.heading {
+  color: yellow;
+}
+
+/* last rule  */
+p {
+  color: red;
+}
+p {
+  color: blue;
+}
