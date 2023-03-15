@@ -1,1 +1,9 @@
 /* combine selector */
+
+/* p {
+  color: red;
+} */
+
+.container p {
+  color: blue;
+}
