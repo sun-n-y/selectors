@@ -1,9 +1,11 @@
 /* div & span */
 
-.green {
-  color: green;
-}
-.red {
+div {
   color: red;
-  background-color: yellowgreen;
+  background-color: black;
+}
+
+.first {
+  color: green;
+  background-color: yellow;
 }
