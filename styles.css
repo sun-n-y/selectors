@@ -9,3 +9,12 @@ div {
   color: green;
   background-color: yellow;
 }
+
+span {
+  text-transform: uppercase;
+}
+.text {
+  color: green;
+  background-color: yellow;
+  font-size: 30px;
+}
