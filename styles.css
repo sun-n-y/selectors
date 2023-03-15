@@ -1,9 +1,13 @@
 /* combine selector */
 
-/* p {
-  color: red;
+/* .container #text {
+  color: fuchsia;
 } */
 
 .container p {
   color: blue;
+}
+
+.container h2 {
+  color: chartreuse;
 }
