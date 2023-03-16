@@ -1,5 +1,5 @@
 <a name="custom_anchor_name"></a>
-# A repo of me learning CSS 💻 
+# A repo of me learning CSS selectors 💻 
 *i put topics into thier own branch to get better at git and git hub. please view accordingly. Thank You for stopping by*
 ## Topics covered so far
 - ### CSS
