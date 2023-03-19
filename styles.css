@@ -1,15 +1,1 @@
-h1 {
-  color: crimson;
-  font-size: 60px;
-}
-h2 {
-  color: blue;
-  font-size: 40px;
-}
-
-/* css rule = h1{...} */
-/* slector = h1 */
-/* declaration block = {...} */
-/* line in the block is declaration */
-/* where porperties and values are */
-/* ; = done within declaration */
+/* attribute selector */
