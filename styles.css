@@ -1,1 +1,14 @@
 /* attribute selector */
+
+input[type="number"] {
+  background-color: greenyellow;
+}
+a[href*="wiki"] {
+  color: aqua;
+}
+a[href^="#"] {
+  color: red;
+}
+a[href$="com"] {
+  color: pink;
+}
